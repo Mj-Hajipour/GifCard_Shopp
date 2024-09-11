@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{51EF17A6-65C3-47EF-86E0-EC02BE85F84C}|ShopManagement.Domain\\ShopManagement.Domain.csproj|solutionrelative:shopmanagement.domain\\productcategoryagg\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C83CBD1-8E7B-4D03-ADF1-203F5903AFE8}|0_FrameWork\\0_FrameWork.csproj|d:\\master\\app_projects\\shopp\\giftcard_shopp\\0_framework\\domain\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C83CBD1-8E7B-4D03-ADF1-203F5903AFE8}|0_FrameWork\\0_FrameWork.csproj|solutionrelative:0_framework\\domain\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51EF17A6-65C3-47EF-86E0-EC02BE85F84C}|ShopManagement.Domain\\ShopManagement.Domain.csproj|d:\\master\\app_projects\\shopp\\giftcard_shopp\\shopmanagement.domain\\productcategoryagg\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51EF17A6-65C3-47EF-86E0-EC02BE85F84C}|ShopManagement.Domain\\ShopManagement.Domain.csproj|solutionrelative:shopmanagement.domain\\productcategoryagg\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C83CBD1-8E7B-4D03-ADF1-203F5903AFE8}|0_FrameWork\\0_FrameWork.csproj|d:\\master\\app_projects\\shopp\\giftcard_shopp\\0_framework\\domain\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C83CBD1-8E7B-4D03-ADF1-203F5903AFE8}|0_FrameWork\\0_FrameWork.csproj|solutionrelative:0_framework\\domain\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,14 +36,14 @@
               "RelativeDocumentMoniker": "ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
               "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
               "RelativeToolTip": "ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T19:17:35.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EntityBase.cs",
               "DocumentMoniker": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\0_FrameWork\\Domain\\EntityBase.cs",
               "RelativeDocumentMoniker": "0_FrameWork\\Domain\\EntityBase.cs",
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProductCategory.cs",
               "DocumentMoniker": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
               "RelativeDocumentMoniker": "ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
               "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
               "RelativeToolTip": "ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAArwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T18:44:03.739Z",
               "EditorCaption": ""
