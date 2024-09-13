@@ -8,6 +8,7 @@ namespace ShopManagement.Domain.ProductCategoryAgg
         ProductCategory Get(long id);
         List<ProductCategory> GetAll();
 
+        bool Exist(string name);
 
     }
 }
