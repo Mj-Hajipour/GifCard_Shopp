@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{51EF17A6-65C3-47EF-86E0-EC02BE85F84C}|ShopManagement.Domain\\ShopManagement.Domain.csproj|d:\\master\\app_projects\\shopp\\giftcard_shopp\\shopmanagement.domain\\productcategoryagg\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EF17A6-65C3-47EF-86E0-EC02BE85F84C}|ShopManagement.Domain\\ShopManagement.Domain.csproj|solutionrelative:shopmanagement.domain\\productcategoryagg\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5DF2339D-22D4-4E3F-9176-0B0E1C2A6056}|Sm.Application\\Sm.Application.csproj|d:\\master\\app_projects\\shopp\\giftcard_shopp\\sm.application\\productcategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DF2339D-22D4-4E3F-9176-0B0E1C2A6056}|Sm.Application\\Sm.Application.csproj|solutionrelative:sm.application\\productcategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{D7D29030-D471-4AC3-B5A6-655806AEA70F}|ShopManagementApplication.Contracts\\ShopManagement.Application.Contracts.csproj|solutionrelative:shopmanagementapplication.contracts\\productcategory\\iproductcategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51EF17A6-65C3-47EF-86E0-EC02BE85F84C}|ShopManagement.Domain\\ShopManagement.Domain.csproj|d:\\master\\app_projects\\shopp\\giftcard_shopp\\shopmanagement.domain\\productcategoryagg\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51EF17A6-65C3-47EF-86E0-EC02BE85F84C}|ShopManagement.Domain\\ShopManagement.Domain.csproj|solutionrelative:shopmanagement.domain\\productcategoryagg\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51EF17A6-65C3-47EF-86E0-EC02BE85F84C}|ShopManagement.Domain\\ShopManagement.Domain.csproj|d:\\master\\app_projects\\shopp\\giftcard_shopp\\shopmanagement.domain\\productcategoryagg\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EF17A6-65C3-47EF-86E0-EC02BE85F84C}|ShopManagement.Domain\\ShopManagement.Domain.csproj|solutionrelative:shopmanagement.domain\\productcategoryagg\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,32 +29,6 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IProductCategoryRepository.cs",
-              "DocumentMoniker": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
-              "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
-              "RelativeToolTip": "ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T11:57:44.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IProductCategoryApplication.cs",
-              "DocumentMoniker": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagementApplication.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
-              "RelativeDocumentMoniker": "ShopManagementApplication.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
-              "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagementApplication.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
-              "RelativeToolTip": "ShopManagementApplication.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T11:55:08.871Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
@@ -60,13 +38,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductCategoryApplication.cs",
+              "DocumentMoniker": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagementApplication.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
+              "RelativeDocumentMoniker": "ShopManagementApplication.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
+              "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagementApplication.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
+              "RelativeToolTip": "ShopManagementApplication.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:44:43.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
+              "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
+              "RelativeToolTip": "ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:25:19.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IProductCategoryRepository.cs",
+              "DocumentMoniker": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
+              "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
+              "RelativeToolTip": "ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA7wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:40:39.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductCategoryApplication.cs",
               "DocumentMoniker": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\Sm.Application\\ProductCategoryApplication.cs",
               "RelativeDocumentMoniker": "Sm.Application\\ProductCategoryApplication.cs",
               "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\Sm.Application\\ProductCategoryApplication.cs",
               "RelativeToolTip": "Sm.Application\\ProductCategoryApplication.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwD8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T11:54:38.493Z",
               "EditorCaption": ""

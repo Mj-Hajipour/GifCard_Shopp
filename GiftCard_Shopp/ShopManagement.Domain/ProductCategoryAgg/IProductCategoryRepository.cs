@@ -1,4 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using ShopManagement.Application.Contracts.ProductCategory;
+using System;
+using System.Collections.Generic;
+using System.Linq.Expressions;
 
 namespace ShopManagement.Domain.ProductCategoryAgg
 {
@@ -8,7 +11,15 @@ namespace ShopManagement.Domain.ProductCategoryAgg
         ProductCategory Get(long id);
         List<ProductCategory> GetAll();
 
-        bool Exist(string name);
+        bool Exist(Expression<Func<ProductCategory,bool>> expression);
 
+
+        void SaveChanges();
+
+
+        EditProductCategory GetDetails(long id);
+
+        List<ProductCategoryViewModel> Search(ProductCategorySearchModel searchModel);
+      
     }
 }

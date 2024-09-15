@@ -1,0 +1,6 @@
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagement.Domain\obj\Debug\netcoreapp3.1\ShopManagement.Domain.csproj.AssemblyReference.cache
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagement.Domain\obj\Debug\netcoreapp3.1\ShopManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagement.Domain\obj\Debug\netcoreapp3.1\ShopManagement.Domain.AssemblyInfoInputs.cache
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagement.Domain\obj\Debug\netcoreapp3.1\ShopManagement.Domain.AssemblyInfo.cs
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagement.Domain\obj\Debug\netcoreapp3.1\ShopManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagement.Domain\obj\Debug\netcoreapp3.1\ShopManagement.Domain.sourcelink.json

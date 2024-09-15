@@ -11,19 +11,6 @@
         "runtime": {
           "bin/placeholder/0_FrameWork.dll": {}
         }
-      },
-      "ShopManagement.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "0_FrameWork": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/ShopManagement.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShopManagement.Domain.dll": {}
-        }
       }
     }
   },
@@ -32,16 +19,11 @@
       "type": "project",
       "path": "../0_FrameWork/0_FrameWork.csproj",
       "msbuildProject": "../0_FrameWork/0_FrameWork.csproj"
-    },
-    "ShopManagement.Domain/1.0.0": {
-      "type": "project",
-      "path": "../ShopManagement.Domain/ShopManagement.Domain.csproj",
-      "msbuildProject": "../ShopManagement.Domain/ShopManagement.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "ShopManagement.Domain >= 1.0.0"
+      "0_FrameWork >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -77,8 +59,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
-              "projectPath": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
+            "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\0_FrameWork\\0_FrameWork.csproj": {
+              "projectPath": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\0_FrameWork\\0_FrameWork.csproj"
             }
           }
         }

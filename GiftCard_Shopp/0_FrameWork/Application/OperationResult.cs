@@ -18,7 +18,7 @@
         }
         public OperationResult Failed(string message)
         {
-            IsSucceeded = true;
+            IsSucceeded = false; 
             Message = message;
             return this;
         }
