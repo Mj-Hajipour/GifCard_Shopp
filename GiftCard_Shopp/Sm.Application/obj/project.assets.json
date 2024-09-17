@@ -1,10 +1,10 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
+    "net8.0": {
       "0_FrameWork/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
+        "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
           "bin/placeholder/0_FrameWork.dll": {}
         },
@@ -14,7 +14,7 @@
       },
       "ShopManagement.Application.Contracts/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
+        "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "0_FrameWork": "1.0.0"
         },
@@ -27,7 +27,7 @@
       },
       "ShopManagement.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
+        "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "0_FrameWork": "1.0.0",
           "ShopManagement.Application.Contracts": "1.0.0"
@@ -59,7 +59,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
+    "net8.0": [
       "ShopManagement.Application.Contracts >= 1.0.0",
       "ShopManagement.Domain >= 1.0.0"
     ]
@@ -86,7 +86,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -94,8 +94,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {
             "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
               "projectPath": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
@@ -118,8 +118,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -136,7 +136,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
