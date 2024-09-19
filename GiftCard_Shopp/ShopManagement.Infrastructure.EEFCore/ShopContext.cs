@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ShopManagement.Domain.ProductCategoryAgg;
 using ShopManagement.Infrastructure.EEFCore.Mapping;
-using System.ComponentModel.DataAnnotations;
+
 
 namespace ShopManagement.Infrastructure.EEFCore
 {

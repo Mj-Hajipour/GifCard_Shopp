@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C83CBD1-8E7B-4D03-ADF1-203F5903AFE8}|0_FrameWork\\0_FrameWork.csproj|d:\\master\\app_projects\\shopp\\giftcard_shopp\\0_framework\\infrastructure\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C83CBD1-8E7B-4D03-ADF1-203F5903AFE8}|0_FrameWork\\0_FrameWork.csproj|solutionrelative:0_framework\\infrastructure\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51EF17A6-65C3-47EF-86E0-EC02BE85F84C}|ShopManagement.Domain\\ShopManagement.Domain.csproj|d:\\master\\app_projects\\shopp\\giftcard_shopp\\shopmanagement.domain\\productcategoryagg\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51EF17A6-65C3-47EF-86E0-EC02BE85F84C}|ShopManagement.Domain\\ShopManagement.Domain.csproj|solutionrelative:shopmanagement.domain\\productcategoryagg\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C83CBD1-8E7B-4D03-ADF1-203F5903AFE8}|0_FrameWork\\0_FrameWork.csproj|d:\\master\\app_projects\\shopp\\giftcard_shopp\\0_framework\\domain\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C83CBD1-8E7B-4D03-ADF1-203F5903AFE8}|0_FrameWork\\0_FrameWork.csproj|solutionrelative:0_framework\\domain\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7DBEE4A-5EC8-4CE3-B9D3-CF30F3F157E6}|ServiceHost\\ServiceHost.csproj|d:\\master\\app_projects\\shopp\\giftcard_shopp\\servicehost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DBEE4A-5EC8-4CE3-B9D3-CF30F3F157E6}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\0_FrameWork\\Infrastructure\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "0_FrameWork\\Infrastructure\\RepositoryBase.cs",
-              "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\0_FrameWork\\Infrastructure\\RepositoryBase.cs",
-              "RelativeToolTip": "0_FrameWork\\Infrastructure\\RepositoryBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T07:30:42.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IProductCategoryRepository.cs",
-              "DocumentMoniker": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
-              "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
-              "RelativeToolTip": "ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T06:57:30.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\0_FrameWork\\Domain\\IRepository.cs",
-              "RelativeDocumentMoniker": "0_FrameWork\\Domain\\IRepository.cs",
-              "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\0_FrameWork\\Domain\\IRepository.cs",
-              "RelativeToolTip": "0_FrameWork\\Domain\\IRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T06:54:50.427Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
@@ -70,6 +27,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceHost\\Program.cs",
+              "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\Program.cs",
+              "RelativeToolTip": "ServiceHost\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:41:56.518Z",
+              "EditorCaption": ""
             }
           ]
         }

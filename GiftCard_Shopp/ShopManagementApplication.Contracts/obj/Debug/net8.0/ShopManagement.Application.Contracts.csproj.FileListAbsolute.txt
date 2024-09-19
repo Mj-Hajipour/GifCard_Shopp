@@ -1,0 +1,16 @@
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagementApplication.Contracts\bin\Debug\net8.0\ShopManagement.Application.Contracts.deps.json
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagementApplication.Contracts\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagementApplication.Contracts\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagementApplication.Contracts\bin\Debug\net8.0\0_FrameWork.dll
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagementApplication.Contracts\bin\Debug\net8.0\0_FrameWork.pdb
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagementApplication.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagementApplication.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagementApplication.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagementApplication.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.AssemblyInfo.cs
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagementApplication.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagementApplication.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.sourcelink.json
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagementApplication.Contracts\obj\Debug\net8.0\ShopMana.6F35FA60.Up2Date
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagementApplication.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.dll
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagementApplication.Contracts\obj\Debug\net8.0\refint\ShopManagement.Application.Contracts.dll
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagementApplication.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.pdb
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ShopManagementApplication.Contracts\obj\Debug\net8.0\ref\ShopManagement.Application.Contracts.dll

@@ -16,7 +16,7 @@ namespace Sm.Application
         public OperationResult Create(CreateProductCategory command)
         {
             var operation = new OperationResult();
-            if(_productCategoryRepository.Exist(x=>x.Name==command.Name))
+            if(_productCategoryRepository.Exists(x=>x.Name==command.Name))
                 return operation.Failed("امکان ثبت رکورد تکراری وجود ندارد.لطفا مجدد تلاش بفرمایید");
 
             var slug = command.Slug.Slugify();
@@ -40,7 +40,7 @@ namespace Sm.Application
                 return operation.Failed("رکوردی یافت نشد.لطفا مجدد تلاش بفرمایید");
 
 
-            if (_productCategoryRepository.Exist(x => x.Name == command.Name && x.Id != command.Id))
+            if (_productCategoryRepository.Exists(x => x.Name == command.Name && x.Id != command.Id))
                 return operation.Failed("امکان ثبت رکورد تکراری وجود ندارد");
 
             var slug=command.Slug.Slugify();

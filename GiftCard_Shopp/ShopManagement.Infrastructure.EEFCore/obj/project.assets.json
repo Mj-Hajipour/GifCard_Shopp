@@ -990,6 +990,9 @@
       "0_FrameWork/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.8"
+        },
         "compile": {
           "bin/placeholder/0_FrameWork.dll": {}
         },
@@ -2796,6 +2799,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "0_FrameWork >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.8",
       "ShopManagement.Domain >= 1.0.0"
@@ -2834,6 +2838,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\0_FrameWork\\0_FrameWork.csproj": {
+              "projectPath": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\0_FrameWork\\0_FrameWork.csproj"
+            },
             "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
               "projectPath": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
             }
