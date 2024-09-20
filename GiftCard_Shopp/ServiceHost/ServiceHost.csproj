@@ -10,4 +10,8 @@
     <ProjectReference Include="..\Shop.Management.Configuration\Shop.Management.Configuration.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\AdminTheme\images\" />
+  </ItemGroup>
+
 </Project>

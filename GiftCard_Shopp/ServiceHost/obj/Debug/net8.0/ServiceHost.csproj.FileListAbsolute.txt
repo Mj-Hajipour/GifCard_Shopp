@@ -81,3 +81,4 @@ D:\Master\App_Projects\Shopp\GiftCard_Shopp\ServiceHost\obj\Debug\net8.0\refint\
 D:\Master\App_Projects\Shopp\GiftCard_Shopp\ServiceHost\obj\Debug\net8.0\ServiceHost.pdb
 D:\Master\App_Projects\Shopp\GiftCard_Shopp\ServiceHost\obj\Debug\net8.0\ServiceHost.genruntimeconfig.cache
 D:\Master\App_Projects\Shopp\GiftCard_Shopp\ServiceHost\obj\Debug\net8.0\ref\ServiceHost.dll
+D:\Master\App_Projects\Shopp\GiftCard_Shopp\ServiceHost\obj\Debug\net8.0\scopedcss\Areas\Administration\Pages\Shared\_AdminLayout.cshtml.rz.scp.css
