@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a9yHoNVbx7hiSisKzJXRm2+2c8Q1o4R5zWTvZqGsSvw=",
+  "Hash": "ShURsNX/eGhHlFPEJn3hafZadswmuWNu6ewpcVO4Wg0=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -5109,6 +5109,25 @@
       "OriginalItemSpec": "wwwroot\\AdminTheme\\css\\material-design-iconic-font.min.css"
     },
     {
+      "Identity": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\AdminTheme\\css\\persian-datepicker.min.css",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "AdminTheme/css/persian-datepicker.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminTheme\\css\\persian-datepicker.min.css"
+    },
+    {
       "Identity": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\AdminTheme\\css\\style.css",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
@@ -5335,6 +5354,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Identity": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\AdminTheme\\images\\mouse01.jpg",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "AdminTheme/images/mouse01.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminTheme\\images\\mouse01.jpg"
     },
     {
       "Identity": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\AdminTheme\\js\\bootstrap.js",
@@ -5622,25 +5660,6 @@
       "OriginalItemSpec": "wwwroot\\AdminTheme\\js\\wow.min.js"
     },
     {
-      "Identity": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\css\\site.css",
-      "SourceId": "ServiceHost",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\",
-      "BasePath": "_content/ServiceHost",
-      "RelativePath": "css/site.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
       "Identity": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\favicon.ico",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
@@ -5658,25 +5677,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\js\\site.js",
-      "SourceId": "ServiceHost",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\",
-      "BasePath": "_content/ServiceHost",
-      "RelativePath": "js/site.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
       "Identity": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

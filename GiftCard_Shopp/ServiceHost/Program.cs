@@ -10,7 +10,7 @@ namespace ServiceHost
 
             // Add services to the container.
             builder.Services.AddRazorPages();
-            var connectionString = builder.Configuration.GetConnectionString("GiftCardShop");
+            var connectionString = builder.Configuration.GetConnectionString("GameTeckShop");
             ShopManagementBootstrapper.Configure(builder.Services, connectionString);
 
 

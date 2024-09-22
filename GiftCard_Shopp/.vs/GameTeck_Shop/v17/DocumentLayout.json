@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{D7DBEE4A-5EC8-4CE3-B9D3-CF30F3F157E6}|ServiceHost\\ServiceHost.csproj|d:\\master\\app_projects\\shopp\\giftcard_shopp\\servicehost\\areas\\administration\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D7DBEE4A-5EC8-4CE3-B9D3-CF30F3F157E6}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DBEE4A-5EC8-4CE3-B9D3-CF30F3F157E6}|ServiceHost\\ServiceHost.csproj|d:\\master\\app_projects\\shopp\\giftcard_shopp\\servicehost\\areas\\administration\\pages\\shop\\productcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7DBEE4A-5EC8-4CE3-B9D3-CF30F3F157E6}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\productcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DBEE4A-5EC8-4CE3-B9D3-CF30F3F157E6}|ServiceHost\\ServiceHost.csproj|d:\\master\\app_projects\\shopp\\giftcard_shopp\\servicehost\\areas\\administration\\pages\\shop\\productcategories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DBEE4A-5EC8-4CE3-B9D3-CF30F3F157E6}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\productcategories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE3A2A2-4BBA-4EDE-B7B4-1896B3322E8C}|ShopManagement.Infrastructure.EEFCore\\ShopManagement.Infrastructure.EEFCore.csproj|d:\\master\\app_projects\\shopp\\giftcard_shopp\\shopmanagement.infrastructure.eefcore\\repository\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE3A2A2-4BBA-4EDE-B7B4-1896B3322E8C}|ShopManagement.Infrastructure.EEFCore\\ShopManagement.Infrastructure.EEFCore.csproj|solutionrelative:shopmanagement.infrastructure.eefcore\\repository\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DBEE4A-5EC8-4CE3-B9D3-CF30F3F157E6}|ServiceHost\\ServiceHost.csproj|d:\\master\\app_projects\\shopp\\giftcard_shopp\\servicehost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DBEE4A-5EC8-4CE3-B9D3-CF30F3F157E6}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,10 +34,6 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
@@ -33,6 +45,10 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_AdminLayout.cshtml",
@@ -40,9 +56,60 @@
               "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
               "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
               "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAOMBAAAAAAAAAAAmwPEBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAPEBAAAAAAAAAAAAAAICAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T12:16:04.015Z",
+              "WhenOpened": "2024-09-22T03:36:21.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceHost\\Program.cs",
+              "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\Program.cs",
+              "RelativeToolTip": "ServiceHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:00:37.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCategoryRepository.cs",
+              "DocumentMoniker": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Infrastructure.EEFCore\\Repository\\ProductCategoryRepository.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Infrastructure.EEFCore\\Repository\\ProductCategoryRepository.cs",
+              "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ShopManagement.Infrastructure.EEFCore\\Repository\\ProductCategoryRepository.cs",
+              "RelativeToolTip": "ShopManagement.Infrastructure.EEFCore\\Repository\\ProductCategoryRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:39:41.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml.cs",
+              "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml.cs",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:32:56.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml",
+              "ToolTip": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T17:18:54.899Z",
               "EditorCaption": ""
             }
           ]

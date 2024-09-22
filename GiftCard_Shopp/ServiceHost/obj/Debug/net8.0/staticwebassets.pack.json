@@ -1069,6 +1069,10 @@
       "PackagePath": "staticwebassets\\AdminTheme\\css\\material-design-iconic-font.min.css"
     },
     {
+      "Id": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\AdminTheme\\css\\persian-datepicker.min.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\css\\persian-datepicker.min.css"
+    },
+    {
       "Id": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\AdminTheme\\css\\style-responsive.css",
       "PackagePath": "staticwebassets\\AdminTheme\\css\\style-responsive.css"
     },
@@ -1115,6 +1119,10 @@
     {
       "Id": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff2",
       "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\AdminTheme\\images\\mouse01.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\mouse01.jpg"
     },
     {
       "Id": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\AdminTheme\\js\\bootstrap.js",
@@ -1177,16 +1185,8 @@
       "PackagePath": "staticwebassets\\AdminTheme\\js\\wow.min.js"
     },
     {
-      "Id": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
       "Id": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
-      "Id": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
       "Id": "D:\\Master\\App_Projects\\Shopp\\GiftCard_Shopp\\ServiceHost\\wwwroot\\lib\\bootstrap\\LICENSE",
